@@ -4,7 +4,7 @@ public class ReverseBinary {
 
     public static void main(String[] args) {
         Scanner scnr = new Scanner(System.in);
-
+        // Retrieve Number
         int number = scnr.nextInt();
 
         if (number <= 0) {
