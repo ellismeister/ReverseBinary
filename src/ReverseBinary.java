@@ -6,7 +6,7 @@ public class ReverseBinary {
         Scanner scnr = new Scanner(System.in);
         // Retrieve Number
         int number = scnr.nextInt();
-
+        // Loop
         if (number <= 0) {
             System.out.println("Please enter a positive number!");
         } else {
